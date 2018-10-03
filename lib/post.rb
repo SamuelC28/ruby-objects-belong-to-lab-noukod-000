@@ -5,5 +5,3 @@ class Post
       desf initialize(title)
         @title = title
       end
-end
-s
