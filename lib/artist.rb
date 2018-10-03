@@ -4,5 +4,6 @@ class Artist
 
       def initialize
         # @name = name
+        self.artist = artist
       end
 end
